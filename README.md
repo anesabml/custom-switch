@@ -1,5 +1,5 @@
-# custom-switch
+# Custom Switch
 Custom Android Switch
 
-## Screenshot
-<img width="200" src="metadata/screenshots/Screenshot_1.jpg" />
+## Demo
+<img height="300" src="metadata/demo.gif" />
